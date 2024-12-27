@@ -27,9 +27,6 @@ This is a practice project for building a custom WordPress theme. The theme is d
 
 ## **Installation**
 1. Clone this repository into your WordPress `themes` folder:
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git wp-content/themes/your-theme-name
-   ```
 2. Log in to the **WordPress admin panel**.
 3. Navigate to **Appearance > Themes**.
 4. Activate the custom theme.
