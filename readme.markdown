@@ -2,6 +2,7 @@
 # **WordPress Custom Theme Practice Project**
 
 This is a practice project for building a custom WordPress theme. The theme is designed to enhance skills in **WordPress development**, **PHP**, and **template customization**.
+![Weixin Screenshot_20241227171436](https://github.com/user-attachments/assets/1ebc7645-f405-462e-ae13-cfb63c04ea88)
 
 ---
 
