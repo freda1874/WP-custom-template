@@ -1,19 +1,36 @@
-This is a practice project for building a custom WordPress theme. The theme is designed to improve my skills in WordPress development, PHP, and template customization.
 
-# **Features**
-responsive layout.
-Custom header.php, footer.php, and functions.php.
-Dynamic sidebars and widget areas.
+# **WordPress Custom Theme Practice Project**
 
-## **Support for:**
-Blog posts (single.php).
-Static pages (page.php).
-Archive pages (archive.php).
-Search functionality (search.php).
-Integration with WordPress's template hierarchy.
+This is a practice project for building a custom WordPress theme. The theme is designed to enhance skills in **WordPress development**, **PHP**, and **template customization**.
 
-## **Installation:**
-Clone this repository into your WordPress themes folder 
-Log in to the WordPress admin panel.
-Navigate to Appearance > Themes.
-Activate the custom theme.
+---
+
+## **Features**
+- Fully **responsive layout**.
+- Custom template files:
+  - `header.php`
+  - `footer.php`
+  - `functions.php`
+- **Dynamic sidebars** and widget areas for flexibility.
+
+---
+
+## **Support for**
+- **Blog posts**: `single.php` for displaying individual posts.
+- **Static pages**: `page.php` for custom page layouts.
+- **Archive pages**: `archive.php` for categories, tags, and other grouped content.
+- **Search functionality**: `search.php` for displaying search results.
+- **Template hierarchy integration** for a seamless WordPress experience.
+
+---
+
+## **Installation**
+1. Clone this repository into your WordPress `themes` folder:
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git wp-content/themes/your-theme-name
+   ```
+2. Log in to the **WordPress admin panel**.
+3. Navigate to **Appearance > Themes**.
+4. Activate the custom theme.
+
+ 
